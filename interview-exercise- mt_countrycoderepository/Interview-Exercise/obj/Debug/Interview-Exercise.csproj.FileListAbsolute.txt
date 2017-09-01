@@ -1,0 +1,5 @@
+C:\Users\nimes\Desktop\interview-exercise-master\Interview-Exercise\bin\Debug\Interview-Exercise.dll
+C:\Users\nimes\Desktop\interview-exercise-master\Interview-Exercise\bin\Debug\Interview-Exercise.pdb
+C:\Users\nimes\Desktop\interview-exercise-master\Interview-Exercise\obj\Debug\Interview-Exercise.csprojResolveAssemblyReference.cache
+C:\Users\nimes\Desktop\interview-exercise-master\Interview-Exercise\obj\Debug\Interview-Exercise.dll
+C:\Users\nimes\Desktop\interview-exercise-master\Interview-Exercise\obj\Debug\Interview-Exercise.pdb
